@@ -1,0 +1,25 @@
+[character]
+success_symbol = "[➜](bold green)"
+error_symbol = "[➜](bold red)"
+
+[directory]
+truncation_symbol = "⋯ /"
+
+[git_branch]
+truncation_length = 20
+
+[git_commit]
+tag_disabled = false
+commit_hash_length = 7
+disabled = false
+
+[memory_usage]
+format = "using [$ram_pct RAM]($style) "
+disabled = false
+
+[package]
+disabled = true
+
+[status]
+format = "[$common_meaning $status]($style) "
+disabled = false

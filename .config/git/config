@@ -1,0 +1,13 @@
+[user]
+	email = ksai44576@gmail.com
+	name = Sai Kumar
+[pull]
+	rebase = false
+[core]
+	excludesFile = ~/.config/git/ignore
+[alias]
+	lp = log --graph --oneline
+	s = status -sb --show-stash
+	ds = diff --shortstat
+[init]
+	defaultBranch = main

@@ -1,0 +1,50 @@
+{
+    "terminal.integrated.fontFamily": "'FiraCode Nerd Font', monospace",
+    "editor.fontFamily": "'FiraCode Nerd Font', monospace",
+    "editor.fontSize": 16,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook",
+        "*.nsx": "default",
+        "*.mp3": "default",
+        "*.nsp": "default",
+        "*.nsc": "default",
+        "*.zip": "default"
+    },
+    "tabnine.experimentalAutoImports": true,
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontSize": 15,
+    "editor.rulers": [
+        72, 79, 88, 99, 119
+    ],
+    "jupyter.alwaysTrustNotebooks": true,
+    "explorer.confirmDragAndDrop": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "jupyter.askForKernelRestart": false,
+    "explorer.confirmDelete": false,
+    "latex-workshop.message.update.show": false,
+    "python.showStartPage": false,
+    "kite.showWelcomeNotificationOnStartup": false,
+    "material-icon-theme.folders.theme": "classic",
+    "material-icon-theme.activeIconPack": "",
+    "workbench.iconTheme": "ayu",
+    "workbench.startupEditor": "none",
+    "gitlens.currentLine.enabled": false,
+    "gitlens.hovers.currentLine.over": "line",
+    "gitlens.codeLens.enabled": false,
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "workbench.editor.untitled.hint": "hidden",
+    "rust-analyzer.highlightRelated.references": false,
+    "rust-analyzer.inlayHints.enable": false,
+    "csv-preview.lineNumbers": "source",
+    "workbench.colorTheme": "Ayu Mirage Bordered",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "python.linting.mypyEnabled": true
+}

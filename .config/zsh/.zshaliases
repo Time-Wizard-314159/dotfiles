@@ -1,0 +1,6 @@
+alias cls="clear"
+alias python="python3.10"
+alias py="python3.10"
+alias pip="pip3.10"
+alias va="source ./.venv/bin/activate"
+alias vd="deactivate"
